@@ -1,0 +1,6 @@
+{
+  "name": "Yuno Orchestrator",
+  "description": "Build autonomous agent pipelines, configure cognitive profiles, and deploy across messaging channels from a single canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
